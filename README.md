@@ -138,5 +138,4 @@ This project was completed as part of the **Summer Internship Program 2026** con
 ## Author
 
 **Srestha Biswas**
-B.Sc. Microbiology Student
-Interested in Bioinformatics, Computational Biology, Machine Learning, and Data Science.
+
